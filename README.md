@@ -15,7 +15,7 @@
 <a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/abdelmalek/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/abdelmalek/" height="30" width="40" /></a>
 </p>
 
-<a href="https://datalemur.com/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/data-lemeur.svg" height="30" width="40" /></a>
+[DataLemur](https://www.datalemur.com/profile)
 
 
 <h3 align="left">Languages and Tools:</h3>
