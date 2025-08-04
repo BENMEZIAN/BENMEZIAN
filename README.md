@@ -32,6 +32,7 @@ You can reach out to me via my DataLemur account:
 
 ## 🌐 Online Learning
 
-- [Udemy](https://www.udemy.com/user/abdelmalek-benmeziane/) 
+- [![Udemy](https://img.shields.io/badge/Udemy-230077?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/user/abdelmalek-benmeziane/)
+
 
 
