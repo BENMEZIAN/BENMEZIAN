@@ -33,6 +33,8 @@ You can reach out to me via my DataLemur account:
 ## 🌐 Online Learning
 
 - [![Udemy](https://img.shields.io/badge/Udemy-230077?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/user/abdelmalek-benmeziane/)
-
-
-
+- [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/abdelmalek2)
+- [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=GeeksforGeeks&logoColor=white)](https://www.geeksforgeeks.org/user/abdelmalek/)
+- [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/c/your-channel)
+- [![Alison](https://img.shields.io/badge/Alison-6A1B9A?style=for-the-badge&logoColor=white)](https://alison.com/profile/48887769/preview)
+- [![Great Learning](https://img.shields.io/badge/Great%20Learning-1976D2?style=for-the-badge&logoColor=white)](https://www.greatlearning.in/academy#/user/your-username)
