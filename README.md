@@ -30,6 +30,8 @@ You can reach out to me via my DataLemur account:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=benmezian&show_icons=true&locale=en" alt="benmezian" /></p>
 
+## 🌐 Online Learning
 
+- [Udemy](https://www.udemy.com/user/abdelmalek-benmeziane/) 
 
 
