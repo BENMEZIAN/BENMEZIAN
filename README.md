@@ -15,7 +15,7 @@
 <a href="https://www.kaggle.com/abdelmalekbenmeziane/competitions" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/abdelmalekbenmeziane/competitions" height="30" width="40" /></a>
 <a href="https://web.facebook.com/abdelmalek.benmeziane.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/abdelmalek.benmeziane.9" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/abdelmalek2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/abdelmalek2" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/abdelmalekbenmeziane/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/abdelmalekbenmeziane/" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/abdelmalekbenmeziane/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/abdelmalekbenmeziane/" height="30" width="40" /></a>
 <a href="https://www.geeksforgeeks.org/user/abdelmalek/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/abdelmalek/" height="30" width="40" /></a>
 </p>
 
@@ -35,9 +35,10 @@ You can reach out to me via my DataLemur account:
 - [![Udemy](https://img.shields.io/badge/Udemy-230077?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/user/abdelmalek-benmeziane/)
 - [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/abdelmalek2)
 - [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=GeeksforGeeks&logoColor=white)](https://www.geeksforgeeks.org/user/abdelmalek/)
-- [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/c/your-channel)
+- [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/feed/you)
 - [![Alison](https://img.shields.io/badge/Alison-6A1B9A?style=for-the-badge&logoColor=white)](https://alison.com/profile/48887769/preview)
-- [![Great Learning](https://img.shields.io/badge/Great%20Learning-1976D2?style=for-the-badge&logoColor=white)](https://www.greatlearning.in/academy#/user/your-username)
+- [![Great Learning](https://img.shields.io/badge/Great%20Learning-1976D2?style=for-the-badge&logoColor=white)](https://olympus.mygreatlearning.com/dashboard)
+- [![Cognitive Class](https://img.shields.io/badge/Cognitive%20Class-000000?style=for-the-badge&logo=ibm&logoColor=white)](https://cognitiveclass.ai/profile/abdelmalek_25) 
 
 ## 🤖 AI Tools
 
