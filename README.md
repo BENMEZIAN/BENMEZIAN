@@ -32,6 +32,8 @@ You can reach out to me via my DataLemur account:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=benmezian&show_icons=true&locale=en" alt="benmezian" /></p>
 
+![](https://nirzak-streak-stats.vercel.app/?user=BENMEZIANE&theme=dark&hide_border=true)<br/>
+
 ## 🌐 Online Learning
 
 - [![Udemy](https://img.shields.io/badge/Udemy-230077?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/user/abdelmalek-benmeziane/)
