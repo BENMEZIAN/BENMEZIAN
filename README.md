@@ -32,7 +32,7 @@ You can reach out to me via my DataLemur account:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=benmezian&show_icons=true&locale=en" alt="benmezian" /></p>
 
-![](https://nirzak-streak-stats.vercel.app/?user=BENMEZIANE&theme=dark&hide_border=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=benmezian&theme=dark&hide_border=true)<br/>
 
 ## 🌐 Online Learning
 
