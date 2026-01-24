@@ -9,6 +9,11 @@
   </a> 
 </p>
 
+## 🏆 GitHub Achievements
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=BENMEZIANE&theme=onedark&no-frame=true&row=1&column=6)
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
