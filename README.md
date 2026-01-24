@@ -12,7 +12,7 @@
 </p> <br> 
 [![GitHub Streak](https://github-profile-trophy.vercel.app/?username=benmezian&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) <br> 
 
-![](https://github-profile-trophy.vercel.app/?username=BENMEZIANE&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=BENMEZIAN&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 ##################################################################################
 
