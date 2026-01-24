@@ -14,8 +14,12 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BENMEZIAN&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=BENMEZIAN&layout=compact&theme=radical)
-![GitHub Contributions](https://activity-graph.herokuapp.com/graph?username=BENMEZIAN&theme=react-dark&area=true&hide_border=true)
 
+<p>
+  <div>
+    <img src="https://activity-graph.herokuapp.com/graph?username=BENMEZIAN&theme=react-dark&area=true&hide_border=true" alt="GitHub Contributions Graph">
+  </div>
+<p>
 
 ##################################################################################
 
