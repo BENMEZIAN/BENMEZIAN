@@ -17,7 +17,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=BENMEZIANE&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <br> 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BENMEZIANE&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BENMEZIAN&theme=dark)
 
 
 ##################################################################################
