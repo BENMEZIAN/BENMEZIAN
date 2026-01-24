@@ -9,7 +9,7 @@
   <h3>🏆 Mes Trophées GitHub</h3>
   
   <a href="https://github.com">
-    <img src="https://github-profile-trophy.vercel.app" alt="Trophées de BENMEZIAN" />
+    <img src="https://github-profile-trophy.vercel.app/?username=BENMEZIAN" alt="Trophées de BENMEZIAN" />
   </a>
 
   <p align="center">
