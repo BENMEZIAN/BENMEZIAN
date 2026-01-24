@@ -6,13 +6,7 @@
 
 ## 🏆 GitHub Trophies
 [![](https://github-profile-trophy.vercel.app/?username=BENMEZIAN)](https://github.com/ryo_ma/github-profile-trophy)
-<p align="left">
-  <img src="https://img.icons8.com/ios-filled/50/000000/trophy.png" width="50" height="50" />
-  <img src="https://img.icons8.com/ios-filled/50/000000/trophy.png" width="50" height="50" />
-  <img src="https://img.icons8.com/ios-filled/50/000000/trophy.png" width="50" height="50" />
-</p>
-
-
+![](https://nirzak-streak-stats.vercel.app/?user=BENMEZIAN&theme=dark&hide_border=false)<br/>
 
 ## 💬 Connect with me
 <p align="left">
