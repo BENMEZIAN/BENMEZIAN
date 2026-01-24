@@ -3,11 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=benmezian&label=Profile%20views&color=0e75b6&style=flat" alt="benmezian" /> </p>
 
-<p align="left"> 
+<<p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy"> 
-    <img src="https://github-profile-trophy.vercel.app/?username=benmezian&theme=onedark&no-frame=true" /> 
+    <img src="https://github-profile-trophy.vercel.app/?username=BENMEZIANE&theme=onedark&no-frame=true&margin-w=15" /> 
   </a> 
 </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
