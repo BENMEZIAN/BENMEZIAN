@@ -10,11 +10,11 @@
     <img src="https://github-profile-trophy.vercel.app/?username=benmezian&theme=onedark" /> 
   </a> 
 </p> <br> 
-[![trophy](https://github-profile-trophy.vercel.app/?username=benmezian)]
+[![trophy](https://github-profile-trophy.vercel.app/?username=benmezian&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <br> 
-[![trophy](https://github-profile-trophy.vercel.app/?username=BENMEZIAN)]
+[![trophy](https://github-profile-trophy.vercel.app/?username=BENMEZIAN&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <br> 
-[![trophy](https://github-profile-trophy.vercel.app/?username=BENMEZIANE)]
+[![trophy](https://github-profile-trophy.vercel.app/?username=BENMEZIANE&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <br> 
 
 ##################################################################################
