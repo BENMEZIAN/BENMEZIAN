@@ -11,6 +11,8 @@
   </a> 
 </p> <br> 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=BENMEZIAN)](https://github.com/ryo-ma/github-profile-trophy)
+<br> 
 ##################################################################################
 
 <h3 align="left">Connect with me:</h3>
@@ -33,7 +35,6 @@ You can reach out to me via my DataLemur account:
 ## 🏆 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BENMEZIAN&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=BENMEZIAN&layout=compact&theme=radical)
-![](https://github-profile-trophy.vercel.app/?username=BENMEZIAN&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ## 🌐 Online Learning
 
