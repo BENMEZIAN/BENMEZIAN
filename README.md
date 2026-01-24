@@ -27,7 +27,7 @@ You can reach out to me via my DataLemur account:
 ## 🏆 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BENMEZIAN&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=BENMEZIAN&layout=compact&theme=radical)
-![](https://nirzak-streak-stats.vercel.app/?user=BENMEZIAN&theme=dark&hide_border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=BENMEZIAN&theme=dark&hide_border=false)
 
 ## 🌐 Online Learning
 
