@@ -60,4 +60,4 @@ You can reach out to me via my DataLemur account:
 ![](https://github-contributor-stats.vercel.app/api?username=BENMEZIAN&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=benmezian&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=BENMEZIAN&icon=0&color=0)](https://visitcount.itsvg.in)
