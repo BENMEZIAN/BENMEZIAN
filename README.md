@@ -38,8 +38,8 @@ You can reach out to me via my DataLemur account:
 
 ## 🏆 GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=benmezian&show_icons=true&locale=en&layout=compact" alt="benmezian" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=benmezian&show_icons=true&locale=en" alt="benmezian" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BENMEZIAN&show_icons=true&locale=en&layout=compact" alt="benmezian" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BENMEZIAN&show_icons=true&locale=en" alt="benmezian" /></p>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BENMEZIAN&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=BENMEZIAN&layout=compact&theme=radical)
