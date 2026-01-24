@@ -12,8 +12,11 @@
 </p> <br> 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=BENMEZIAN&title=Commits,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
-
 <br> 
+## 🏆 GitHub Activity Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=BENMEZIAN&title=Repositories,Followers,Stars,Commits&theme=dracula&column=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
 ##################################################################################
 
 <h3 align="left">Connect with me:</h3>
