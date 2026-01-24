@@ -11,7 +11,8 @@
   </a> 
 </p> <br> 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=BENMEZIAN)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=BENMEZIAN&title=Commits,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
+
 <br> 
 ##################################################################################
 
