@@ -10,15 +10,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=benmezian&theme=onedark" /> 
   </a> 
 </p> <br> 
-[![trophy](https://github-profile-trophy.vercel.app/?username=benmezian&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-<br> 
-[![trophy](https://github-profile-trophy.vercel.app/?username=BENMEZIAN&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-<br> 
-[![trophy](https://github-profile-trophy.vercel.app/?username=BENMEZIANE&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-<br> 
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BENMEZIAN&theme=dark)
-
+[![GitHub Streak](https://github-profile-trophy.vercel.app/?username=benmezian&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ##################################################################################
 
@@ -67,8 +59,3 @@ You can reach out to me via my DataLemur account:
 
 ---
 [![](https://visitcount.itsvg.in/api?id=benmezian&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-## 🏆 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=BENMEZIAN&layout=compact&theme=onedark)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BENMEZIAN&show_icons=true&theme=onedark)
