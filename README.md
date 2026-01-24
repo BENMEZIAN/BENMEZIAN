@@ -9,7 +9,7 @@
   </a> 
 </p>
 
-![GitHub Profile Trophies](https://github-profile-trophy.vercel.app)
+![GitHub Profile Trophies]([https://github-profile-trophy.vercel.app](https://github-profile-trophy.vercel.app/?username=BENMEZIAN&theme=onedark&no-frame=true&margin-w=15))
 
 
 
