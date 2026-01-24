@@ -8,13 +8,10 @@
 <div align="center">
   <h3>🏆 Mes Trophées GitHub</h3>
   
-  <a href="https://github.com">
+  <a href="https://github.com/BENMEZIAN">
     <img src="https://github-profile-trophy.vercel.app/?username=BENMEZIAN" alt="Trophées de BENMEZIAN" />
   </a>
 
-  <p align="center">
-    <i>Généré dynamiquement via <a href="https://github.com">github-profile-trophy</a></i>
-  </p>
 </div>
 ##################################################################################
 
