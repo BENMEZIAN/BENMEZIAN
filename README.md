@@ -7,15 +7,9 @@
 ## 🏆 GitHub Trophies
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy"> 
-    <img src="https://github-profile-trophy.vercel.app/?username=benmezian&theme=onedark" /> 
+    <img src="https://github-profile-trophy.vercel.app/?username=BENMEZIAN&theme=onedark" /> 
   </a> 
 </p> <br> 
-
-<p>
-  <div>
-    <img src="https://activity-graph.herokuapp.com/graph?username=BENMEZIAN&theme=react-dark&area=true&hide_border=true" alt="GitHub Contributions Graph">
-  </div>
-<p>
 
 ##################################################################################
 
