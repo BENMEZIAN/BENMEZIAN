@@ -12,9 +12,9 @@
 </p> <br> 
 [![trophy](https://github-profile-trophy.vercel.app/?username=benmezian)]
 <br> 
-[![trophy](https://github-profile-trophy.vercel.app/?username=BENMEZIAN)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=BENMEZIAN)]
 <br> 
-[![trophy](https://github-profile-trophy.vercel.app/?username=BENMEZIANE)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=BENMEZIANE)]
 <br> 
 
 ##################################################################################
