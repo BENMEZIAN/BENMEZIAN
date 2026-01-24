@@ -70,5 +70,5 @@ You can reach out to me via my DataLemur account:
 
 
 ## 🏆 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=BENMEZIANE&layout=compact&theme=onedark)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BENMEZIANE&show_icons=true&theme=onedark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=BENMEZIAN&layout=compact&theme=onedark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BENMEZIAN&show_icons=true&theme=onedark)
