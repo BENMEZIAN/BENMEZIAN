@@ -15,7 +15,10 @@
 <br> 
 ## 🏆 GitHub Activity Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=BENMEZIAN&title=Repositories,Followers,Stars,Commits&theme=dracula&column=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://img.shields.io/github/followers/BENMEZIAN?label=Followers&style=for-the-badge" />
+<img src="https://img.shields.io/github/stars/BENMEZIAN?label=Stars&style=for-the-badge" />
+<img src="https://img.shields.io/github/repo-size/BENMEZIAN?label=Repo+Size&style=for-the-badge" />
+<br> 
 
 ##################################################################################
 
