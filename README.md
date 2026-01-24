@@ -9,6 +9,7 @@
   </a> 
 </p>
 
+![GitHub Profile Trophies](https://github-profile-trophy.vercel.app)
 
 
 
