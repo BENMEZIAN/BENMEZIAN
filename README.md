@@ -47,3 +47,10 @@ You can reach out to me via my DataLemur account:
 - [![ChatGPT](https://img.shields.io/badge/ChatGPT-OpenAI-10a37f?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/chatgpt)
 - [![DeepSeek](https://img.shields.io/badge/DeepSeek-AI-FF6F00?style=for-the-badge&logo=deepnote&logoColor=white)](https://deepseek.com/)
 - [![Gemini](https://img.shields.io/badge/Gemini-Google-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://gemini.google.com/)
+
+## ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+
+
