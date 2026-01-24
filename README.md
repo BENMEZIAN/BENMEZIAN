@@ -10,8 +10,12 @@
     <img src="https://github-profile-trophy.vercel.app/?username=benmezian&theme=onedark" /> 
   </a> 
 </p> <br> 
-![](https://github-profile-trophy.vercel.app/?username=BENMEZIAN&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-![](https://github-profile-trophy.vercel.app/?username=BENMEZIAN&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+## 🏆 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BENMEZIANE&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=BENMEZIANE&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BENMEZIANE&theme=radical)
+
 
 ##################################################################################
 
