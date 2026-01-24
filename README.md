@@ -11,10 +11,6 @@
   </a> 
 </p> <br> 
 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BENMEZIAN&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=BENMEZIAN&layout=compact&theme=radical)
-
 <p>
   <div>
     <img src="https://activity-graph.herokuapp.com/graph?username=BENMEZIAN&theme=react-dark&area=true&hide_border=true" alt="GitHub Contributions Graph">
@@ -44,6 +40,10 @@ You can reach out to me via my DataLemur account:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=benmezian&show_icons=true&locale=en&layout=compact" alt="benmezian" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=benmezian&show_icons=true&locale=en" alt="benmezian" /></p>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BENMEZIAN&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=BENMEZIAN&layout=compact&theme=radical)
+
 
 ## 🌐 Online Learning
 
