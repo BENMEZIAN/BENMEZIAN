@@ -2,7 +2,7 @@
 <h3 align="center">A computer science enthusiast graduated from Algeria</h3>
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=benmezian&label=Profile%20views&color=0e75b6&style=flat" alt="benmezian" /> </p>
+  <img src="https://komarev.com/ghpvc/?username=BENMEZIAN&label=Profile%20views&color=0e75b6&style=flat" alt="benmezian" /> </p>
 
 ## 🏆 GitHub Trophies
 <p align="left"> 
@@ -10,16 +10,6 @@
     <img src="https://github-profile-trophy.vercel.app/?username=BENMEZIAN&theme=radical&no-frame=false&no-bg=false&margin-w=4" /> 
   </a> 
 </p> <br> 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=BENMEZIAN&title=Commits,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
-<br> 
-## 🏆 GitHub Activity Trophies
-
-<img src="https://img.shields.io/github/followers/BENMEZIAN?label=Followers&style=for-the-badge" />
-<img src="https://img.shields.io/github/stars/BENMEZIAN?label=Stars&style=for-the-badge" />
-<img src="https://img.shields.io/github/repo-size/BENMEZIAN?label=Repo+Size&style=for-the-badge" />
-<br> 
-
 ##################################################################################
 
 <h3 align="left">Connect with me:</h3>
