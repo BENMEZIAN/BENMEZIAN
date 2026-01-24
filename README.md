@@ -10,7 +10,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=benmezian&theme=onedark" /> 
   </a> 
 </p> <br> 
-[![trophy](https://github-profile-trophy.vercel.app/?username=benmezian)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=benmezian)]
 <br> 
 [![trophy](https://github-profile-trophy.vercel.app/?username=BENMEZIAN)](https://github.com/ryo-ma/github-profile-trophy)
 <br> 
