@@ -12,6 +12,7 @@
 </p> <br> 
 [![trophy](https://github-profile-trophy.vercel.app/?username=benmezian)](https://github.com/ryo-ma/github-profile-trophy)
 <br> 
+[![trophy](https://github-profile-trophy.vercel.app/?username=BENMEZIAN)](https://github.com/ryo-ma/github-profile-trophy)
 ##################################################################################
 
 <h3 align="left">Connect with me:</h3>
