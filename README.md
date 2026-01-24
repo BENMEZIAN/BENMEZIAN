@@ -7,7 +7,7 @@
 ## 🏆 GitHub Trophies
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy"> 
-    <img src="https://github-profile-trophy.vercel.app/?username=BENMEZIAN&theme=radical&no-frame=false&no-bg=false&margin-w=4" /> 
+    <img src="https://github-profile-trophy.vercel.app/?username=BENMEZIAN" /> 
   </a> 
 </p> <br> 
 ##################################################################################
