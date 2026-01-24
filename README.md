@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=BENMEZIAN&label=Profile%20views&color=0e75b6&style=flat" alt="benmezian" /> </p>
 
 ## 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=BENMEZIAN" alt="Trophées de BENMEZIAN" />
+- [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 ##################################################################################
 
 ## 💬 Connect with me
