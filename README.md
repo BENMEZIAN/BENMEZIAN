@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdelmalek BENMEZIANE</h1>
-<h3 align="center">A computer science enthusiast graduated from Algeria</h3>
+<h3 align="center">A computer science enthusiast graduated | Part-time teacher</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=BENMEZIAN&label=Profile%20views&color=0e75b6&style=flat" alt="benmezian" /> </p>
@@ -24,9 +24,17 @@ You can reach out to me via my DataLemur account:
 [![trophy](https://github-profile-trophy.vercel.app/?username=BENMEZIAN)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📊 GitHub Stats
-![Github Stats](https://github-readme-stats.vercel.app/api?username=BENMEZIAN&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=BENMEZIAN&layout=compact&theme=radical)
-![](https://nirzak-streak-stats.vercel.app/?user=BENMEZIAN&theme=dark&hide_border=false)
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BENMEZIAN&show_icons=true&theme=radical&cache_seconds=1800" height="165" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BENMEZIAN&layout=compact&theme=radical&cache_seconds=1800" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=BENMEZIAN&theme=radical" height="165" />
+</p>
 
 ## 🌐 Online Learning
 - [![Udemy](https://img.shields.io/badge/Udemy-230077?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/user/abdelmalek-benmeziane/)
