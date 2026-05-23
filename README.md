@@ -24,14 +24,6 @@ You can reach out to me via my DataLemur account:
 [![trophy](https://github-profile-trophy.vercel.app/?username=BENMEZIAN)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📊 GitHub Stats
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BENMEZIAN&show_icons=true&theme=radical&cache_seconds=1800" height="165" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BENMEZIAN&layout=compact&theme=radical&cache_seconds=1800" height="165" />
-</p>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=BENMEZIAN&theme=radical" height="165" />
 </p>
