@@ -48,14 +48,5 @@ You can reach out to me via my DataLemur account:
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=BENMEZIAN&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-## 🐍 Contribution Snake
-![snake gif](https://github.com/BENMEZIAN/blob/output/github-contribution-grid-snake.svg)
-
-
-
-
-
-
-
 
 
