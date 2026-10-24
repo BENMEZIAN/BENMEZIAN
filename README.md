@@ -41,12 +41,11 @@ You can reach out to me via my DataLemur account:
 - [![ChatGPT](https://img.shields.io/badge/ChatGPT-OpenAI-10a37f?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/chatgpt)
 - [![DeepSeek](https://img.shields.io/badge/DeepSeek-AI-FF6F00?style=for-the-badge&logo=deepnote&logoColor=white)](https://deepseek.com/)
 - [![Gemini](https://img.shields.io/badge/Gemini-Google-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://gemini.google.com/)
+- [![Claude](https://img.shields.io/badge/Claude-Anthropic-D97757?style=for-the-badge&logo=anthropic&logoColor=white)](https://claude.ai/)
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=BENMEZIAN&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-
 
