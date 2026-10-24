@@ -13,6 +13,8 @@
 <a href="https://leetcode.com/u/abdelmalekbenmeziane/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/abdelmalekbenmeziane/" height="30" width="40" /></a>
 <a href="https://www.geeksforgeeks.org/user/abdelmalek/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/abdelmalek/" height="30" width="40" /></a>
 </p>
+<a href="https://linktr.ee/abdelmalekbenmeziane2018" target="_blank"><img align="center" src="https://cdn.simpleicons.org/linktree/43E55E" alt="Linktree" height="30" width="40" /></a>
+</p>
 
 You can reach out to me via my DataLemur account:
 [DataLemur](https://www.datalemur.com/profile)
