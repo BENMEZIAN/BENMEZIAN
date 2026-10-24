@@ -22,8 +22,8 @@
 - 🎯 Helping learners understand programming concepts through clear explanations and practical examples.
 - 💻 Publishing practical C programming exercises and solutions in the [AlgoCrafters Solutions Repository](https://github.com/BENMEZIAN/algocrafters-c-exercises).
 - ✍️ Creating educational content and beginner-friendly coding challenges.
-[![LinkedIn Page](https://img.shields.io/badge/LinkedIn-AlgoCrafters-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/company/algocraftersdz/?viewAsMember=true)
-[![GitHub Repository](https://img.shields.io/badge/GitHub-Solutions-181717?style=flat&logo=github)](https://github.com/BENMEZIAN/algocrafters-c-exercises)
+- [![LinkedIn Page](https://img.shields.io/badge/LinkedIn-AlgoCrafters-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/company/algocraftersdz/?viewAsMember=true)
+- [![GitHub Repository](https://img.shields.io/badge/GitHub-Solutions-181717?style=flat&logo=github)](https://github.com/BENMEZIAN/algocrafters-c-exercises)
 
 
 ## 💻, 🔧 Languages and Tools
